@@ -1,0 +1,10 @@
+.theme-light {
+  --bg-dark: #333333;
+  --card-dark: #222222;
+  --icon-bg: #c4c4c4;
+}
+.theme-dark {
+  --bg-dark: #ffffff;
+  --card-dark: #ffffff;
+  --icon-bg: #c4c4c4;
+}

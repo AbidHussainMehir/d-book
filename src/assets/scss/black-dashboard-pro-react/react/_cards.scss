@@ -1,0 +1,18 @@
+.card-tasks .card-header .title {
+  margin-right: 24px;
+}
+
+.card-timeline .timeline > li.timeline-inverted > .timeline-panel:after, .card-timeline .timeline > li.timeline-inverted > .timeline-panel:before {
+  border-right-color: #000 !important;
+  border-left-color: #000 !important;
+}
+
+  .timeline-panel{
+    background: #000 !important;
+  }
+  .timeline-inverted-2 > .timeline-panel:after {
+ 
+  border-left: 14px solid #000 !important;
+  border-right: 0 solid #000 !important;
+
+}

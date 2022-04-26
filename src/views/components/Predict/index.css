@@ -1,0 +1,27 @@
+.step-details {
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 16px;
+  text-align: center;
+  padding: 62px 11px;
+  color: #ffffff !important;
+}
+.predict-step {
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 24px;
+  line-height: 29.26px;
+  color: #ffffff !important;
+}
+.predict-card {
+  background-color: #7b0000 !important;
+  box-shadow: 0px 4px 4px 2px rgba(0, 0, 0, 0.25);
+  border-radius: 5px;
+  padding: 11px;
+  max-width: 360px;
+  min-height: 180px;
+  margin-bottom: 40px;
+}
